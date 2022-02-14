@@ -1,0 +1,127 @@
+/* Utility Classes */
+.h-primary
+{
+    font-size:2rem;
+}
+
+.h-secondary
+{
+    font-size: 1.7rem;
+}
+.p-primary
+{
+    font-size: 1rem;
+}
+
+hr
+{
+    margin: 1rem auto;
+    width:10%;
+}
+
+.form-label
+{
+    font-size: 1rem;
+}
+
+/* Navigation Bar */
+.navbar
+{
+    flex-direction:column;
+    align-items:center;
+    justify-content: center;
+}
+.logo img
+{
+    margin:0.2rem;
+}
+.navbar ul 
+{
+    padding-bottom: 0.4rem;
+}
+.navbar ul li
+{
+    font-size: 1rem;
+}
+.navbar ul li a 
+{
+    padding: 0.3rem 0.5rem;
+}
+
+/* Home Container */
+.home-container
+{
+    height:auto;
+    padding:1rem 0.5rem;
+    margin-top:1.5rem;
+    align-self: flex-end;
+}
+
+/* Services Section */
+.services
+{
+    flex-direction:column;
+    margin:2rem 1rem 1rem;
+}
+
+.service-item
+{
+    padding:1rem;
+    margin:0.5rem 0;
+    height:auto;
+}
+
+.service-logo
+{
+    height: unset;
+    width:25%
+}
+.service-title
+{
+    font-size: 1.5rem;
+}
+
+.service-desc
+{
+    font-size:1rem;
+}
+
+/* Clients Section */
+#client-container
+{
+    padding: 1rem 0;
+    height:auto;
+}
+.clients
+{
+    margin-top:0.5rem;
+}
+.client-item
+{
+    padding:1rem 0.5rem;
+}
+.client-logo
+{
+    height:3rem;
+}
+
+/* Contact Section */
+#contact-section 
+{
+    padding: 1rem 0;
+    height: auto;
+}
+.contact-form
+{
+    width: 80%;
+}
+.contact-input,.contact-textarea
+{
+    font-size:0.8rem;
+}
+
+/* Footer */
+#footer
+{
+    height:auto;
+}
